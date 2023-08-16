@@ -38,6 +38,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Created with ❤️ by [Your Name] | [Your Website/Portfolio]
+Created with ❤️ by [Godrix](https://www.linkedin.com/in/carlosgodri/)
 
 
