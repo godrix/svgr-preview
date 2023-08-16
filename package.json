@@ -16,7 +16,7 @@
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
-  "icon": "src/img/svgr.png",
+  "icon": "icon.png",
   "keywords": [
     "react",
     "react-native",
